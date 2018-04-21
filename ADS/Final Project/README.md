@@ -29,5 +29,24 @@ Weather API - https://openweathermap.org/api
 
 Yelp API - https://www.yelp.com/developers/documentation/v3/business_search 
 
+## Tutorial
 
-##### Web Scrapping Script [Notebook](https://cocalc.com/projects/555ac5a9-25b4-4679-831c-1287ecda54c7/files/Blog/Blog.ipynb?session=default "Web Scrapping")
+##### Web Scrapping Script [Notebook](https://github.com/rahilshah10/IS/blob/master/ADS/Final%20Project/Notebooks/Data%20Retrival.ipynb)
+
+##### Data Cleaning
+* Lyft [Notebook](https://github.com/MandyYang86/Ride-Optimization/blob/master/Data%20Clean%20Part/DataClean_OneMonth_Lyft_Line.ipynb)
+* Uber [Notebook](https://github.com/MandyYang86/Ride-Optimization/blob/master/Data%20Clean%20Part/DataClean_OneMonth_Uber_Pool.ipynb)
+
+##### Machine Learning [Notebook](https://github.com/rahilshah10/IS/blob/master/ADS/Final%20Project/Notebooks/Machine%20Learning.ipynb)
+
+##### Time Series 
+* Lyft [Notebook](https://github.com/MandyYang86/Ride-Optimization/blob/master/MA%20Model/Time%20Series%20-%20Moving%20Average%20Model-Lyft.ipynb)
+* Uber [Notebook](https://github.com/MandyYang86/Ride-Optimization/blob/master/MA%20Model/Time%20Series%20-%20Moving%20Average%20Model-Uber.ipynb)
+
+## License (MIT)
+
+These tutorials and source-code are published under the [MIT License](https://github.com/rahilshah10/IS/blob/master/LICENSE) which allows very broad use for both academic and commercial purposes.
+
+A few of the images used for demonstration purposes may be under copyright. These images are included under the "fair usage" laws.
+
+You are very welcome to modify these tutorials and use them in your own projects. 
